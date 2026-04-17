@@ -1,39 +1,44 @@
-[<img src="https://raw.githubusercontent.com/MAHFOOZ-16/MAHFOOZ-16/main/Banner.png" alt="Ahmed Mahfooz Ali Khan | Portfolio" title="Ahmed Mahfooz Ali Khan | Portfolio"/>](https://mahfooz.me)
+<p align="center">
+  <a href="https://www.ahmedmahfoozalikhan.me/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=2800&pause=800&color=111111&center=true&vCenter=true&multiline=true&repeat=true&width=1400&height=220&lines=Hi+there!+I'm+Ahmed+Mahfooz+Ali+Khan;Cybersecurity+Enthusiast+%7C+AI+and+ML+%7C+Full+Stack+Developer+%7C+Cloud" alt="Ahmed Mahfooz Ali Khan" />
+  </a>
+</p>
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=MAHFOOZ-16.MAHFOOZ-16&color=00cf00)
 
 *Last manually updated:* `2026-04-17`
 
-<h1 align="center">Hi, I'm Ahmed Mahfooz Ali Khan</h1>
-<h3 align="center">AI Engineer | Full Stack Developer | Cloud and Cybersecurity Enthusiast</h3>
+<h1 align="center">Ahmed Mahfooz Ali Khan</h1>
+<h3 align="center">Cybersecurity Enthusiast | AI and ML | Full Stack Developer | Cloud</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mahfooz-16&label=Profile%20views&color=0e75b6&style=flat" alt="mahfooz-16" />
+  <img src="https://komarev.com/ghpvc/?username=MAHFOOZ-16&label=Profile%20views&color=0e75b6&style=flat" alt="MAHFOOZ-16" />
 </p>
 
 - Computer Science graduate based in Sweden
-- I work across AI, machine learning, computer vision, cloud systems, backend engineering, and cybersecurity
+- I work across cybersecurity, AI and machine learning, computer vision, backend systems, cloud deployment, and full stack development
 - I also do freelancing, building portfolio websites and software solutions for clients
-- Portfolio: [mahfooz.me](https://mahfooz.me)
-- Research Paper: [A Steganographic Approach for Medical Imaging](https://pdf.ac/3JXw19)
+- Portfolio: [ahmedmahfoozalikhan.me](https://www.ahmedmahfoozalikhan.me/)
+- Steganography Paper: [A Steganographic Approach for Medical Imaging](https://www.ahmedmahfoozalikhan.me/projects/cyber-security/steganography-medical-imaging)
+- Thesis: [AI-driven Optimization Framework for Construction Site Ecosystems](https://urn.kb.se/resolve?urn=urn:nbn:se:bth-28884)
 - Reach me at **ahmedmahfooz2me@gmail.com**
-- Ask me about **AI, Full Stack Development, Cloud, Cybersecurity, RAG, Automation, and Hugging Face**
+- Ask me about **Cybersecurity, AI and ML, Full Stack Development, Cloud, RAG, Automation, and Hugging Face**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/MAHFOOZ" target="blank">
+  <a href="https://www.linkedin.com/in/ahmed-mahfooz-ali-khan/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/mahfooz_khan" target="blank">
+  <a href="https://instagram.com/mahfooz_khan03" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
 </p>
 
 <h3 align="left">About Me:</h3>
 <p align="left">
-I am a Computer Science graduate with experience across AI, machine learning, backend systems, cloud deployment, cybersecurity, and full stack development. I build practical systems that improve workflows, support better decision making, and solve real problems. My work includes AI research, RAG-based applications, multimodal systems, deployment pipelines, and freelance client projects.
+I am a Computer Science graduate with experience across cybersecurity, AI and machine learning, backend systems, cloud deployment, and full stack development. I build practical systems that improve workflows, support better decision making, and solve real problems. My work includes AI research, RAG-based applications, multimodal systems, deployment pipelines, and freelance client projects.
 </p>
 
 <h3 align="left">Experience Highlights:</h3>
@@ -132,12 +137,12 @@ I am a Computer Science graduate with experience across AI, machine learning, ba
 
 <h3 align="left">Core Areas:</h3>
 <ul>
+  <li>Cybersecurity</li>
   <li>Artificial Intelligence and Machine Learning</li>
   <li>Retrieval-Augmented Generation</li>
   <li>Computer Vision</li>
   <li>Full Stack Development</li>
   <li>Cloud Deployment and CI/CD</li>
-  <li>Cybersecurity and Vulnerability Analysis</li>
   <li>Freelance Web Development</li>
 </ul>
 
@@ -151,8 +156,8 @@ I am a Computer Science graduate with experience across AI, machine learning, ba
   <li><b>Securing IoT Data</b> – Blockchain, STRIDE, SHA256</li>
 </ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfooz-16&show_icons=true&locale=en&layout=compact" alt="mahfooz-16" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MAHFOOZ-16&show_icons=true&locale=en&layout=compact" alt="MAHFOOZ-16" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahfooz-16&show_icons=true&locale=en" alt="mahfooz-16" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MAHFOOZ-16&show_icons=true&locale=en" alt="MAHFOOZ-16" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfooz-16&" alt="mahfooz-16" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MAHFOOZ-16&" alt="MAHFOOZ-16" /></p>
