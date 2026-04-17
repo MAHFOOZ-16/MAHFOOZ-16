@@ -22,13 +22,13 @@
 - Ask me about **Cybersecurity, AI and ML, Full Stack Development, Cloud, RAG, Automation and Hugging Face**
 
 <h3 align="left">Connect with me:</h3>
-<div align="center">
+<div align="left">
   <table border="0" width="300">
     <tr>
-      <td align="center">
+      <td align="left">
         <a href="https://www.linkedin.com/in/ahmed-mahfooz-ali-khan/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
       </td>
-      <td align="center">
+      <td align="left">
         <a href="https://instagram.com/mahfooz_khan03" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
       </td>
     </tr>
