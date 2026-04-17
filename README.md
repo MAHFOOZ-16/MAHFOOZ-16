@@ -4,8 +4,6 @@
   </a>
 </p>
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=MAHFOOZ-16.MAHFOOZ-16&color=00cf00)
-
 *Last manually updated:* `2026-04-17`
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
