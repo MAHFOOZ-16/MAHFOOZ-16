@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.ahmedmahfoozalikhan.me/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=2800&pause=800&color=111111&center=true&vCenter=true&multiline=true&repeat=true&width=1400&height=220&lines=Hi+there!+I'm+Ahmed+Mahfooz+Ali+Khan;Cybersecurity+Specialist+%7C+AI+and+Machine+Learning+%7C;Full+Stack+Developer+%7C+Cloud+Infrastructure+and+Deployment" alt="Ahmed Mahfooz Ali Khan" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=2800&pause=800&color=111111&background=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=1400&height=220&lines=Hi+there!+I'm+Ahmed+Mahfooz+Ali+Khan;Cybersecurity+Specialist+%7C+AI+and+Machine+Learning+%7C;Full+Stack+Developer+%7C+Cloud+Infrastructure+and+Deployment" alt="Ahmed Mahfooz Ali Khan" />
   </a>
 </p>
 
