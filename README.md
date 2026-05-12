@@ -113,8 +113,5 @@ I am a Computer Science graduate with hands on experience across cybersecurity, 
   <li><b>Securing IoT Data</b> - Blockchain, STRIDE, SHA256</li>
 </ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MAHFOOZ-16&show_icons=true&locale=en&layout=compact" alt="MAHFOOZ-16" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MAHFOOZ-16&show_icons=true&locale=en" alt="MAHFOOZ-16" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MAHFOOZ-16&" alt="MAHFOOZ-16" /></p>
